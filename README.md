@@ -17,7 +17,7 @@
 
 ## 👋 Sobre mim
 
-Sou um **QA Engineer** apaixonado por **automação de testes**, garantindo qualidade, performance e eficiência em cada entrega. Meu foco é transformar processos manuais em pipelines automatizados que impulsionam o desenvolvimento ágil e seguro.
+Sou um **QA Engineer* em formação* apaixonado por **automação de testes**, garantindo qualidade, performance e eficiência em cada entrega. Meu foco é transformar processos manuais em pipelines automatizados que impulsionam o desenvolvimento ágil e seguro.
 
 💡 **Especialidades:**
 - ✅ Automação de Testes E2E com **Cypress** e **Selenium**
