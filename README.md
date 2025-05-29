@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,7 +20,7 @@
 Sou um **QA Engineer** apaixonado por **automação de testes**, garantindo qualidade, performance e eficiência em cada entrega. Meu foco é transformar processos manuais em pipelines automatizados que impulsionam o desenvolvimento ágil e seguro.
 
 💡 **Especialidades:**
-- ✅ Automação de Testes E2E com **Cypress**
+- ✅ Automação de Testes E2E com **Cypress** e **Selenium**
 - ✅ Testes de API com **Postman**
 - ✅ Desenvolvimento de scripts em **JavaScript** e **Python**
 - ✅ Estruturação de páginas com **HTML** e estilização com **CSS**
@@ -31,9 +32,9 @@ Sou um **QA Engineer** apaixonado por **automação de testes**, garantindo qual
 
 ## 🛠️ **Tech Stack & Ferramentas**
 
-- 🧪 **Test Automation**: Cypress, Postman  
+- 🧪 **Test Automation**: Cypress, Selenium, Postman  
 - 💻 **Languages**: JavaScript, Python, HTML, CSS  
-- 🌐 **Web Automation**: Cypress, Selenium (em estudo)  
+- 🌐 **Web Automation**: Cypress, Selenium  
 - 🔄 **CI/CD**: GitHub Actions (em constante aprimoramento)  
 - 📋 **Metodologias**: Scrum, Agile, TDD  
 
@@ -43,7 +44,7 @@ Sou um **QA Engineer** apaixonado por **automação de testes**, garantindo qual
 
 ✨ **[Automated E2E Tests with Cypress](#)** — Framework robusto para testes E2E com integração ao CI.  
 ✨ **[API Testing Suite com Postman](#)** — Coleção de testes automatizados para validação de APIs REST.  
-✨ **[Web Automation Bot](#)** — Automação de interações web com foco em tarefas repetitivas.  
+✨ **[Web Automation Bot com Selenium](#)** — Automação de interações web com Selenium para tarefas repetitivas.  
 ✨ **[Portfolio de Testes](#)** — Repositório com exemplos de testes automatizados em diversas linguagens.  
 
 _(Adicione os links reais dos seus projetos ou deixe como placeholders para inserir depois.)_
