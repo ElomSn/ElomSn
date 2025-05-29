@@ -71,7 +71,7 @@ _(Substitua ou adicione suas certificações reais)_
 ## 🚀 **Vamos colaborar?**
 
 <p align="left">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/ElomSn">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/elom-sena-17b768101/">
