@@ -1,4 +1,9 @@
-<h1 align="center">🚀 QA Engineer | Automation Specialist 🚀</h1>
+<h1 align="center">🚀 QA Engineer em Formação | Automação de Testes 🚀</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Qualidade+como+miss%C3%A3o;Automatizando+processos+com+efici%C3%AAncia;Em+constante+evolu%C3%A7%C3%A3o+como+QA+Engineer;Pronto+para+o+pr%C3%B3ximo+desafio!">
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
@@ -82,3 +87,4 @@ _(Substitua ou adicione suas certificações reais)_
 ---
 
 <h3 align="center">✨ Sempre aprendendo, sempre evoluindo! ✨</h3>
+
